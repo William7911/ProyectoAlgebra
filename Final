@@ -1,0 +1,6 @@
+git init
+git add Proyecto.html
+git commit -m "Initial commit"
+git remote add origin https://github.com/William7911/Final.git
+git branch -M main
+git push -u origin main
